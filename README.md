@@ -12,4 +12,4 @@
   - Crete a Dashboard Using `Power Bi`
 
 ## Dashboard Img
-![image](<img width="1800" height="2300" alt="Image" src="https://github.com/user-attachments/assets/8a093872-b191-44a6-a3b2-42a95a0a093e" alt="Preview" width="400" />)
+![image](https://user-images.githubusercontent.com/12345678/abcdef123456.png)
