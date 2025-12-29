@@ -11,3 +11,8 @@
   - Data visualization
   - Crete a Dashboard Using `Power Bi`
 
+## Dashboard Preview
+
+![Amazon Dashboard](IMG/Amazon Dashboard.png)
+
+The screenshot above shows the main visualizations in the Power BI dashboard.
