@@ -13,6 +13,6 @@
 
 ## Dashboard Preview
 
-![Data-Analytics](IMG/Amazon_Dashboard.png)
+![Data-Analytics](Data-Analytics/IMG/Amazon_Dashboard.png)
 
 The screenshot above shows the main visualizations in the Power BI dashboard.
